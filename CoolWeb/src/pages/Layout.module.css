@@ -1,0 +1,174 @@
+
+.App {
+  height: 100vh;
+  width: 100vw;
+}
+
+.map_container {
+  height: 50%;
+  width: 50%;
+}
+
+.bg {
+  width: 100%;
+  height: 741px;
+
+  background-color: #3446EE;
+}
+.bg2 {
+  width: 100%;
+  height: 151px;
+  background-color: #3446EE;
+}
+
+.im_design {
+  position: absolute;
+}
+
+.fn_mar_1 {
+  font-size: 80px;
+  margin-top: 130px;
+  margin-left: 300px;
+  color: white;
+  position: absolute;
+
+}
+.fn_mar_3 {
+  font-size: 34px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+    position: absolute;
+
+}
+
+.fn_mar_2 {
+  font-size: 64px;
+    margin-left: 680px;
+    margin-top: 260px;
+    color: #B9A5F2;
+    position: absolute;
+}
+.fn_mar_4 {
+  font-size: 35px;
+  margin-left: 260px;
+  margin-top: 80px;
+  color: #B9A5F2;
+  position: absolute;
+}
+
+.im_pen {
+  margin-left: 1000px;
+  position: absolute;
+}
+.im_pen4 {
+  margin-left: 900px;
+  position: absolute;
+}
+
+
+.im_pen_2 {
+  margin-top: 138px;
+  margin-left: 750px;
+  position: absolute;
+}
+.im_pen_5 {
+  margin-top: 38px;
+  margin-left: 750px;
+  position: absolute;
+}
+.im_pen3 {
+  margin-top: 450px;
+  margin-left: 380px;
+  position: absolute;
+}
+
+.im_design_1 {
+  position: absolute;
+  margin-top: 450px;
+  margin-left: 450px;
+
+
+}
+
+.ft_bn_main {
+  margin-bottom: 90px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 33px;
+
+}
+
+.button12 {
+ 
+ 
+  border: none;
+  display: inline-block;
+  width: 350px;
+  height: 190px;
+  margin-bottom: 100px;
+}
+.footer_do {
+  color: white;
+  background-color: #171717; /* Green */
+  display: grid;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  min-height: 30px;
+  font-size: 8pt;
+
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  padding: 10px;
+  width: 100%;
+ 
+}
+.layout_or{
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.Product_1 {
+  margin-top: 24px;
+  margin-bottom: 200px;
+  width: 100%;
+  height: 100%;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.con {
+  padding: 2px 16px;
+}
+
+.menu_de{
+  padding-left: 10em;
+}
+
+.product_list {
+  
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.bn1{
+  width: 150px;
+}
+.bn2{
+  margin-left: 10px;
+}
+
